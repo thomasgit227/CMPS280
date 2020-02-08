@@ -1,0 +1,5 @@
+-Check for Repeating Numbers
+-Spacing and UX
+-Scanner and Caller Actions
+-Comments
+-Check for Win Conditions
