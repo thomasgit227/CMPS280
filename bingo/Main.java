@@ -13,7 +13,6 @@ public class Main {
             myCard.printBingoCard();
         }
 
-        System.out.println("BINGO!");
-        System.out.println("Congrats");
+        user.endGame();
     }
 }

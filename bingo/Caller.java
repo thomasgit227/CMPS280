@@ -37,10 +37,15 @@ public class Caller {
         System.out.println("\n\n");
     }
 
+    public void endGame() {
+        keys.close();
+        System.out.println("BINGO!");
+        System.out.println("Congrats");
+    }
+    
     public int getUserNumber() {
         System.out.println("Please Enter a Number: ");
         int userNum = keys.nextInt();
         return userNum;
     } 
-
 }
