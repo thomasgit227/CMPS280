@@ -1,4 +1,4 @@
-package bingo;
+package chapter9.bingo;
 
 import java.util.Scanner;
 
