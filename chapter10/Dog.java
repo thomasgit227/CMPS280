@@ -8,7 +8,7 @@ public class Dog {
 
     public Dog() {
         name = "Spot";
-        breed = "Mutt";
+        breed = "Labrador Retriever";
         age = 1;
     }
 
